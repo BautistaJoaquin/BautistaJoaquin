@@ -1,6 +1,6 @@
 ### Hola desarrolladores, soy Joaquin Bautista es un placer!!! 👋
 
-### Estoy entrenandome como desarrollador | Ingeniería Informática | Tengo experiencia en: C#, ASP.NET MVC5, ASP.NET Core MVC, Entity Framework, SQL Server, HTML, CSS, Bootstrap, JavaScripts, JQuery, Python, Django.
+### Estoy entrenandome como desarrollador | Ingeniería Informática | Tengo un poco de experiencia en: C#, ASP.NET MVC5, ASP.NET Core MVC, Entity Framework, SQL Server, HTML, CSS, Bootstrap, JavaScripts, JQuery, Python, Django.
 
 ### Contactame a mis redes sociales
 [![Facebook](https://user-images.githubusercontent.com/54549934/93971143-23240280-fd8d-11ea-859d-1e69485789de.png)](https://www.facebook.com/JoackoBautista/) 
